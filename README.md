@@ -8,6 +8,7 @@ I'm a DevOps and Software Engineer working with cloud, Kubernetes and CI/CD curr
 - [Go](https://go.dev/)
 - [CUE](https://github.com/cue-lang/cue)
 - [Dagger](https://github.com/dagger/dagger)
+- [Nix](https://nixos.org/)
 - CI/CD
 - GitOps
 - Automation
