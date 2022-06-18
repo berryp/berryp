@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-I'm a DevOps and Software Engineer working with cloud, Kubernetes and CI/CD currently based in South Korea.
+I'm a Software Engineer working with DevOps, cloud, Kubernetes and CI/CD currently based in South Korea.
 
 ### Things I enjoy working on
 
 - [Kubernetes](https://kubernetes.io/)
 - [Go](https://go.dev/)
-- [CUE](https://github.com/cue-lang/cue)
 - [Dagger](https://github.com/dagger/dagger)
-- [Nix](https://nixos.org/)
 - CI/CD
+- [CUE](https://github.com/cue-lang/cue)
+- [Nix](https://nixos.org/)
 - GitOps
 - Automation
 - Building new things
