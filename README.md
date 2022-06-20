@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer working with DevOps, cloud, Kubernetes and CI/CD currently based in South Korea.
+I'm a Software Engineer working remotely with DevOps, cloud, Kubernetes and CI/CD.
 
 ### Things I enjoy working on
 
