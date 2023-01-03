@@ -1,18 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineer working remotely with DevOps, cloud, Kubernetes and CI/CD.
-
-### Things I enjoy working on
-
-- [Kubernetes](https://kubernetes.io/)
-- [Go](https://go.dev/)
-- [Dagger](https://github.com/dagger/dagger)
-- CI/CD
-- [CUE](https://github.com/cue-lang/cue)
-- [Nix](https://nixos.org/)
-- GitOps
-- Automation
-- Building new things
+I'm a Software Engineer working in SRE who's obsessed with the Nix ecosystem, Kubernetes and cloud.
 
 <!--
 **berryp/berryp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
